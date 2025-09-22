@@ -1,4 +1,6 @@
-## Oblast_budushego-case_3
 ### Разработка сервиса исправление ошибок текстовых документов
+#### ПРИМЕР: YANDEX SPELLER
+В данном репозитории представлен пример использования API YANDEX SPELLER в контексте обработки официально деловых документов.
 
+Вы можете ознакомиться кодом в файле example.ipynb, или перейти по ссылке и запустить код в среде Google Colab: https://colab.research.google.com/drive/1isS77fL-KiAg_DFN5c5yd75qn9pf_xAb
 
